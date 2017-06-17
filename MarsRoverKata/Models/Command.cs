@@ -5,6 +5,8 @@
         MoveForward,
         MoveBackward,
         TurnLeft,
-        TurnRight
+        TurnRight,
+        Quit,
+        Unknown
     }
 }
